@@ -1,5 +1,6 @@
 Hi I'm Marz
-I'm a total noob :D
+
+
 
 <!---
 MarzHater/MarzHater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
