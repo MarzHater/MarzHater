@@ -1,6 +1,6 @@
 Hi I'm Marz
 
-I'm gae
+Contact me at contact@marz.gay
 
 
 <!---
