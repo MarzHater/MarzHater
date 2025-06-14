@@ -1,6 +1,5 @@
 Hi I'm Marz
 
-Contact me at github@marz.gay
 
 
 <!---
